@@ -125,7 +125,7 @@ Style examplars with precomputed semantic segmentation.
 
 
 ## 🚧 TODO
-- [ ] Release full dataset
+- [x] Release full dataset
 - [ ] Release evaluation code
 - [ ] Customize dataset
 
